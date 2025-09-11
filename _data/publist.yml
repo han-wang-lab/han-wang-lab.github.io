@@ -1,0 +1,34 @@
+# 2025
+- title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
+  image: nguyen_icra2025.png
+  description: 
+  authors: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen
+  link:
+    url: https://arxiv.org/abs/2409.17727
+    display: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen,  ICRA, 2025
+  type: 1
+  news2:
+  year: 2025
+
+- title: "A2VIS: Amodal-Aware Approach to Video Instance Segmentation"
+  image: tran_image_vision2025.png
+  description: 
+  authors: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0262885625001313
+    display: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le,  Image and Vision Computing, 2025
+  type: 2
+  news2:
+  year: 2025
+
+- title: "Modeling radiologists’ cognitive processes using a digital gaze twin to enhance radiology training"
+  image: awasthi_scientific_reports2025.png
+  description: 
+  authors: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen
+  link:
+    url: https://www.nature.com/articles/s41598-025-97935-y
+    display: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen,  Scientific Reports, 2025
+  type: 2
+  news2:
+  year: 2025
+
