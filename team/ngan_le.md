@@ -1,14 +1,14 @@
 ---
 layout: member
-title: Ngan Le
-position: Principal Investigator
-handle: ngan_le
+title: Hao Wang
+position: Associate Professor, PhD Supervisor
+handle: hao_wang
 email: 
 twitter:
 github: 
 scholar: 8ck0k_UAAAAJ
-photo: ngan_le.jpg
-web: https://www.nganle.net/
+photo: wanghao.png
+web: https://bme.hainanu.edu.cn/info/1107/5621.htm
 ---
 
 ### Overview
