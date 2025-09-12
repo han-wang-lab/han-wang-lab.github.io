@@ -3,10 +3,10 @@ layout: member
 title: Hao Wang
 position: Associate Professor, PhD Supervisor
 handle: hao_wang
-email: 
+email: haowang@hainanu.edu.cn
 twitter:
 github: 
-scholar: 8ck0k_UAAAAJ
+scholar: 
 photo: wanghao.png
 web: "https://bme.hainanu.edu.cn/info/1107/5621.htm"
 ---
