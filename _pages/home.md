@@ -8,7 +8,7 @@ permalink: /
 
 # Welcome to Ying Han & Hao Wang Lab
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab_pic.jpg){: style="width: 100%; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg){: style="width: 100%; border: 10px"}
 
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/teamall.jpg){: style="width: 150px; float: left;margin-right: 20px; border: 10px"} -->
