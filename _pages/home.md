@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Han ying & Wang hao Lab1
+# Welcome to Ying Han & Hao Wang Lab
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/lab_pic.jpg){: style="width: 100%; border: 10px"}
 
