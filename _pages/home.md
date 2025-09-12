@@ -1,7 +1,7 @@
 ---
 title: "AICV Lab - Home"
 layout: homelay
-excerpt: "AICV Lab"
+excerpt: "Our Lab"
 sitemap: false
 permalink: /
 ---
