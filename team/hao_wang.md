@@ -8,9 +8,7 @@ twitter:
 github: 
 scholar: 8ck0k_UAAAAJ
 photo: wanghao.png
-// ...existing code...
 web: "[个人主页](https://bme.hainanu.edu.cn/info/1107/5621.htm)"
-// ...existing code...
 ---
 
 ### Overview
