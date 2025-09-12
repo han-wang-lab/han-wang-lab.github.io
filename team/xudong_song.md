@@ -13,11 +13,11 @@ web: https://song-xudong.github.io/
 ---
 
 ### Overview
-I am a Ph.D. student in Computer Science at the University of Arkansas, advised by Dr. Ngan Le. 
+I am a Ph.D. student in Biomedical Engineering at Hainan University, supervised by Dr. Hao Wang.
 
-My research interests are deep learning algorithms for visual perception tasks (object detection, segmentation, pose estimation, etc.) and path/motion planning regarding visual perception.
+My research interests are deep learning algorithms for visual perception tasks (such as object detection, segmentation, pose estimation, etc.) and path/motion planning related to visual perception.
 
-My current works mainly explore deep learning algorithms for semantic and instance segmentation tasks in images and videos.
+In my spare time, I enjoy playing board games and reading detective novels. Feel free to reach out if you want to play together!
 
 ### Education
 - BSc in Animal Science, Henan University of Science and Technology
