@@ -144,7 +144,7 @@ permalink: /team/
 {% endif %}
 
 
----
+<!-- ---
 
 ## Honor Undergraduate Students
 {% assign number_printed = 0 %}
@@ -175,7 +175,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %} -->
 
 
 
