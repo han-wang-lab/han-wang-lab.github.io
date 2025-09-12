@@ -107,3 +107,6 @@ Home Team Research Publications Join Us Contact
 
 ## 首页新闻修改
 _pages\home.md的News部分修改
+
+## 关于代码提交
+使用校园网提交较慢，而且容易失败，建议使用手机热点进行提交。

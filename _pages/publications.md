@@ -112,7 +112,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-<div>
+<!-- <div>
 ## Full List
 
 For a full list, please go to <a class="regtext" href="https://scholar.google.com/citations?user=8ck0k_UAAAAJ&hl=en&authuser=1">Google Scholar</a>.
@@ -120,6 +120,6 @@ For a full list, please go to <a class="regtext" href="https://scholar.google.co
 
 </div>
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
 ---
