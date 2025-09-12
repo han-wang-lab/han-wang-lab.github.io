@@ -27,7 +27,7 @@ layout: default
 <div class="row">
 	<div class="col-sm-3">
 
-		{% if member.web %}
+		<!-- {% if member.web %}
 		<div class="smallhead">
 			Personal Website
 		</div>
@@ -37,7 +37,21 @@ layout: default
 			<a class="off" href="{{ member.web }}">{{ member.web }}</a>
 		</div>
 		<div class="bigspacer"></div>
-		{% endif %}
+		{% endif %} -->
+		{% if member.web %}
+<div class="smallhead">
+    Personal Website
+</div>
+<div class="pad-left note">
+    <div class="smallspacer"></div>
+    <i class="fa fa-university"></i>
+    <a class="off" href="{{ member.web }}">
+        {% if member.title %}{{ member.title }}{% else %}Personal Website{% endif %}
+    </a>
+</div>
+<div class="bigspacer"></div>
+{% endif %}
+		
 
 		{% if member.twitter %}
 		<div class="smallhead">
