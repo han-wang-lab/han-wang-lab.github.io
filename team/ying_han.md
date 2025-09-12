@@ -1,14 +1,14 @@
 ---
 layout: member
-title: Hao Wang
-position: Associate Professor, PhD Supervisor
-handle: hao_wang
+title: Ying Han
+position: Professor, PhD Supervisor
+handle: ying_han
 email: 
 twitter:
 github: 
-scholar: 8ck0k_UAAAAJ
-photo: wanghao.png
-web: https://bme.hainanu.edu.cn/info/1107/5621.htm
+scholar: 
+photo: hanying.png
+web: https://bme.hainanu.edu.cn/info/1115/1645.htm
 ---
 
 ### Overview
