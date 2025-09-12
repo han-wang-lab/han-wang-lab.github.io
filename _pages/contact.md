@@ -14,7 +14,7 @@ If you are interested in joining our lab, please go to the [Join Us](../recruitm
 ## Our Lab
 Our main AICV Lab is located in the School of Biomedical Engineering, Yazhou Bay, Sanya (**Room C301**):
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/bmemap.png" alt="Lab Location Map" style="width:100%; max-width:600px; border: 1px solid #ccc;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/bmemap.png" alt="Lab Location Map" style="width:100%; max-width:1000px; border: 1px solid #ccc;" />
 
 
 <!-- ## AICV Lab
