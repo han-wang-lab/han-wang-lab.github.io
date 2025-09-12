@@ -7,11 +7,17 @@ permalink: /contact/
 ---
 
 # Prospective Students
-If you are interested in joining our lab, please go to the [recruitment](../recruitment) page.
+If you are interested in joining our lab, please go to the [Join Us](../recruitment) page.
 
 # Lab Locations
 
-## AICV Lab
+## Our Lab
+Our main AICV Lab is located in the School of Biomedical Engineering, Yazhou Bay, Sanya (**Room C301**):
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/bmemap.png" alt="Lab Location Map" style="width:100%; max-width:600px; border: 1px solid #ccc;" />
+
+
+<!-- ## AICV Lab
 Our main AICV Lab is located in J.B. Hunt building (**Room 447**):
 
 
@@ -30,4 +36,4 @@ We are establishing Robotic Lab focuses on robotic control projects, which is lo
       src="https://maps.google.com/maps?q=Bell%20Engineering%20Center,%20AR%2072701&t=&z=16&ie=UTF8&iwloc=&output=embed" 
       frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
   </iframe>
-</div>
+</div> -->
