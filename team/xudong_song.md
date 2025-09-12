@@ -20,4 +20,7 @@ My research interests are deep learning algorithms for visual perception tasks (
 My current works mainly explore deep learning algorithms for semantic and instance segmentation tasks in images and videos.
 
 ### Education
-- BSc, Computer Science, University of Science, VNU-HCM (2020)
+- BSc in Animal Science, Henan University of Science and Technology
+- BSc in Computer Science and Technology, Henan University of Science and Technology
+- MSc in Animal Husbandry, Guangxi University
+- Ph.D. in Biomedical Engineering, Hainan University
