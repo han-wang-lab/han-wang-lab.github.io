@@ -1,15 +1,15 @@
 ---
 layout: member
-title: Minh Tran
+title: Xudong Song
 position: Ph.D. Student
-handle: minh_tran
-email: minht@uark.edu
+handle: xudong_song
+email: songxudong@hainanu.edu.cn
 twitter:
-github: trqminh
-scholar: AmQwXDUAAAAJ
+github: 
+scholar: 
 linkedin: 
-photo: minh_tran.png
-web: https://trqminh.github.io
+photo: xudong_song.jpg
+web: https://song-xudong.github.io/
 ---
 
 ### Overview
