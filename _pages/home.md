@@ -1,5 +1,5 @@
 ---
-title: "AICV Lab - Home"
+title: "Our Lab - Home"
 layout: homelay
 excerpt: "Our Lab"
 sitemap: false
@@ -20,7 +20,7 @@ The AICV Lab aims to advance research in **computer vision**, **robotics**, and 
 
 * 2025年9月5日: 举办神经影像与阿尔茨海默病早期诊断闭门研讨会！
 * 2025年9月3日: 研究生新生宋旭东、苏铱鸣、阳标、林荣涵、邓新宇加入课题组！
-* Jul 02, 2021: [College of Engineering Offers Applied Machine Learning Intensive for Summer](https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer)
+<!-- * Jul 02, 2021: [College of Engineering Offers Applied Machine Learning Intensive for Summer](https://news.uark.edu/articles/57146/college-of-engineering-offers-applied-machine-learning-intensive-for-summer) -->
 
 ## Prospective Students
 

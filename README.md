@@ -105,4 +105,5 @@ Home Team Research Publications Join Us Contact
 这部分内容在_includes\header.html进行修改
 隐藏Research部分的内容
 
-
+## 首页新闻修改
+_pages\home.md的News部分修改
