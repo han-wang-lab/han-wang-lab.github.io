@@ -1,7 +1,7 @@
 ---
-title: "AICV Lab - About"
+title: "Han&Wang Lab - About"
 layout: textlay
-excerpt: "AICV Lab -- About"
+excerpt: "Han&Wang Lab -- About"
 sitemap: false
 permalink: /about/
 ---

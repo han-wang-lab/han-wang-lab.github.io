@@ -1,7 +1,7 @@
 ---
-title: "AICV Lab - Publications"
+title: "Han&Wang Lab - Publications"
 layout: gridlay
-excerpt: "AICV Lab -- Publications."
+excerpt: "Han&Wang Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

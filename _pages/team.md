@@ -1,7 +1,7 @@
 ---
-title: "AICV Lab - Team"
+title: "Han&Wang Lab - Team"
 layout: gridlay
-excerpt: "AICV Lab: Team members"
+excerpt: "Han&Wang Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

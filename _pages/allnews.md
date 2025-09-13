@@ -1,7 +1,7 @@
 ---
-title: "AICV Lab - News"
+title: "Han&Wang Lab - News"
 layout: textlay
-excerpt: "AICV Lab"
+excerpt: "Han&Wang Lab"
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,5 +1,5 @@
 ---
-title: "AICV Lab - Contact"
+title: "Han&Wang Lab - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
@@ -12,7 +12,7 @@ If you are interested in joining our lab, please go to the [Join Us](../recruitm
 # Lab Locations
 
 ## Our Lab
-Our main AICV Lab is located in the School of Biomedical Engineering, Yazhou Bay, Sanya (**Room C301**):
+Han&Wang Lab is located in the School of Biomedical Engineering, Yazhou Bay, Sanya (**Room C301**):
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/bmemap.png" alt="Lab Location Map" style="width:100%; max-width:1000px; border: 1px solid #ccc;" />
 

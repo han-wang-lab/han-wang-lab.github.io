@@ -1,7 +1,7 @@
 ---
-title: "Our Lab - Home"
+title: "Han&Wang Lab - Home"
 layout: homelay
-excerpt: "Our Lab"
+excerpt: "Han&Wang Lab"
 sitemap: false
 permalink: /
 ---

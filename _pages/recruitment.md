@@ -1,5 +1,5 @@
 ---
-title: "Our Lab - Recruitment"
+title: "Han&Wang Lab - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
