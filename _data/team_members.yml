@@ -48,40 +48,35 @@
 
 ## Masters Students
 - group: 2
+  info: Since 2024
+  name: Zonghan Wang
+  photo: zonghan_wang.png
+  url: zonghan_wang
+- group: 2
+  info: Since 2024
+  name: Wangxi Shi
+  photo: wangxi_shi.jpg
+  url: wangxi_shi
+- group: 2
   info: Since 2025
-  name: Hao Vo
-  photo: hao_vo.jpg
-  url: hao_vo
+  name: Yiming Su
+  photo: yiming_su.jpg
+  url: yiming_su
 - group: 2
-  info: Since 2023
-  name: Farid Hashemian
-  photo: farid_hashemian.png
-  url: farid_hashemian
+  info: Since 2025
+  name: Biao Yang
+  photo: biao_yang.jpg
+  url: biao_yang
 - group: 2
-  info: Since 2024
-  name: Annie Prasanna Manoharan
-  photo: annie_prasanna.png
-  url: annie_prasanna
+  info: Since 2025
+  name: Ronghan Lin
+  photo: ronghan_lin.jpg
+  url: ronghan_lin
 - group: 2
-  info: Since 2024
-  name: Esteban Duran Marti
-  photo: esteban_duran.jpeg
-  url: esteban_duran
-- group: 2
-  info: Since 2024
-  name: Ved Mani Shukla
-  photo: no_pic.png
-  url: ved_shukla
-- group: 2
-  info: Since 2024
-  name: Phillip Cannon
-  photo: phillip_cannon.png
-  url: phillip_cannon
-- group: 2
-  info: Since 2024
-  name: Samuel Michael Lin
-  photo: no_pic.png
-  url: samuel_lin
+  info: Since 2025
+  name: Xinyu Deng
+  photo: xinyu_deng.jpg
+  url: xinyu_deng
 # - group: 3
 #   info: Since 2022
 #   name: Taisei Hanyu
@@ -142,21 +137,21 @@
 #   name: Malachi Massey
 #   photo: malachi_massey.jpg
 #   url: malachi_massey
-- group: 2
-  info: Since 2024
-  name: Yuki Ikebe
-  photo: yuki_ikebe.png
-  url: yuki_ikebe
-- group: 3
-  info: Since 2024
-  name: Johnmark Clements
-  photo: johnmark_clements.jpg
-  url: johnmark_clements
-- group: 3
-  info: Since 2024
-  name: Bryan Williams
-  photo: bryan_williams.png
-  url: bryan_williams
+# - group: 2
+#   info: Since 2024
+#   name: Yuki Ikebe
+#   photo: yuki_ikebe.png
+#   url: yuki_ikebe
+# - group: 3
+#   info: Since 2024
+#   name: Johnmark Clements
+#   photo: johnmark_clements.jpg
+#   url: johnmark_clements
+# - group: 3
+#   info: Since 2024
+#   name: Bryan Williams
+#   photo: bryan_williams.png
+#   url: bryan_williams
 # - group: 2
 #   info: Since 2024
 #   name: Gladys Gawugah
