@@ -8,7 +8,7 @@ twitter:
 github: 
 scholar: 
 linkedin: 
-photo: wangxi_shi.jpg
+photo: wangxi_shi.png
 web: 
 ---
 
