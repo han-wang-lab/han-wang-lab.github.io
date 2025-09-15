@@ -8,8 +8,30 @@ permalink: /
 
 # Welcome to Ying Han & Hao Wang Lab
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg){: style="width: 100%; border: 10px"}
-
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg){: style="width: 100%; border: 10px"} -->
+<!-- Bootstrap轮播组件示例（需已引入Bootstrap） -->
+<div id="labCarousel" class="carousel slide" data-ride="carousel" style="width:100%;">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg" class="d-block w-100" alt="Team All">
+    </div>
+    <div class="carousel-item">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/lab1.jpg" class="d-block w-100" alt="Lab 1">
+    </div>
+    <!-- <div class="carousel-item">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/lab2.jpg" class="d-block w-100" alt="Lab 2">
+    </div> -->
+    <!-- 可以继续添加更多图片 -->
+  </div>
+  <a class="carousel-control-prev" href="#labCarousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#labCarousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/teamall.jpg){: style="width: 150px; float: left;margin-right: 20px; border: 10px"} -->
 

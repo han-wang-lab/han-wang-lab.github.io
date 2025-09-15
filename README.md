@@ -111,3 +111,8 @@ _pages\home.md的News部分修改
 ## 关于代码提交
 使用校园网提交较慢，而且容易失败，建议使用手机热点进行提交。
 使用新加坡全局链接完成了提交，2025年9月12日15:45:10
+
+## 轮播图
+_includes\head.html里插入
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
