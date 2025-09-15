@@ -26,25 +26,20 @@
 
 ##PhD Students
 - group: 1
+  info: Since 2023
+  name: Beiqi He
+  photo: beiqi_he.jpg
+  url: beiqi_he
+- group: 1
+  info: Since 2024
+  name: Zhanyu Tian
+  photo: zhanyu_tian.jpg
+  url: zhanyu_tian
+- group: 1
   info: Since 2025
   name: Xudong Song
   photo: xudong_song.jpg
   url: xudong_song
-- group: 1
-  info: Since 2023
-  name: Thinh Phan
-  photo: thinh_phan.jpg
-  url: thinh_phan
-- group: 1
-  info: Since 2023
-  name: Trong Thang Pham
-  photo: thang_pham.png
-  url: thang_pham
-- group: 1
-  info: Since 2024
-  name: An Le
-  photo: an_le.png
-  url: an_le
 #- group: 2
 #  info: Since 2024
 #  name: Kim Tran Hoang
