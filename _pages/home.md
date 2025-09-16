@@ -52,6 +52,7 @@ permalink: /
 <!-- === 图片容器 === -->
 <div class="carousel-dual">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg" class="active" alt="team">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team3.jpg" alt="team3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team2.jpg" alt="lab">
 
   <button class="prev" onclick="changeD(-1)">&#10094;</button>
@@ -93,4 +94,4 @@ The Ying Han & Hao Wang Lab aims to advance research in **computer vision**, **r
 
 如果您有兴趣加入，请参阅*[Join Us](recruitment)* 页面。
 
-<p style="color:red;">我们从 2025 年夏季开始为博士生（研究助理）提供空缺职位！</p>
+<p style="color:red;">我们从 2025 年夏季开始为博士生后提供空缺职位！</p>
