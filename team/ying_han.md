@@ -8,52 +8,41 @@ twitter:
 github: 
 scholar: 
 photo: hanying.png
+wechat: sophie1362
 web: https://bme.hainanu.edu.cn/info/1115/1645.htm
 ---
 
-### Overview
-Ying Han is a Professor, Chief Physician, and PhD Supervisor at the Department of Neurology, Xuanwu Hospital, Capital Medical University. She is also a part-time Professor at the School of Biomedical Engineering, Hainan University. Dr. Han serves as the Chair of the China AD Preclinical Alliance at the National Clinical Research Center for Geriatric Diseases (Xuanwu Hospital), President of the Beijing Society for Cognitive Neuroscience, editorial board member of several academic journals, and a reviewer for the National Natural Science Foundation of China.
-
-Dr. Han was selected by the National Education Commission to study in France at the Roger Salengro Hospital, Lille University Medical Center, under Professor Florence Pasquier, a world-renowned expert in Alzheimer's disease (AD) and a key contributor to international AD diagnostic criteria. She also served as the president of the Lille Regional Association of Chinese Scholars and Students.
-
-Since 2008, Dr. Han has focused on clinical diagnosis and treatment of AD and neuroimaging research on cognitive impairment. She was among the first in China to apply multimodal MRI methods for early evaluation of mild cognitive impairment, demonstrating early structural and functional brain changes. As the only invited representative from Asia, she joined the Subjective Cognitive Decline Initiative (SCD-I) writing group to help define clinical features of SCD. Dr. Han has published over 200 professional papers, including more than 100 SCI-indexed articles in top journals such as *Lancet Neurology*, *Molecular Neurodegeneration*, *Science Bulletin*, *Theranostics*, *Radiology*, and *Alzheimer's Research & Therapy*. She has supervised students who have presented at international conferences and received AAIC fellowships.
-
-### Education
-- 1988: M.B. in Medicine, Harbin Medical University
-- 1989: English training, Beijing Foreign Studies University (one semester)
-- 1999: French training, Beijing Language and Culture University (one year)
-- 2000: Selected by National Education Commission for study abroad in France (one year)
-- 2008: Ph.D. in Cognitive Neuroscience, State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University
-
-### Professional Experience
-- 1988–1994: Resident Physician, Department of Neurology, Fourth Hospital of China Medical University
-- 1994–1995: Resident Physician, Department of Neurology, Shougang Hospital, Peking University
-- 1995–2000: Attending Physician, Department of Neurology, Shougang Hospital, Peking University
-- 2000–2001: Visiting Scholar, Memory Center, Department of Neurology, Roger Salengro Hospital, Lille University Medical Center, France
-- 2002–2005: Associate Chief Physician, Department of Neurology, Shougang Hospital, Peking University
-- 2008–2009: Associate Chief Physician, Department of Neurology, Xuanwu Hospital, Capital Medical University
-- 2010–2011: Associate Chief Physician & Master Supervisor, Department of Neurology, Xuanwu Hospital, Capital Medical University
-- 2011–2012: Associate Chief Physician, Master Supervisor, Associate Professor, Department of Neurology, Xuanwu Hospital, Capital Medical University
-- 2013–2014: Chief Physician, Master Supervisor, Professor, Department of Neurology, Xuanwu Hospital, Capital Medical University
-- 2014–present: Chief Physician, Professor, PhD Supervisor, Department of Neurology, Xuanwu Hospital, Capital Medical University
-- 2021–present: Part-time Professor (Flexible Introduction), School of Biomedical Engineering, Hainan University
-
-### Honors & Academic Service
-- Chair, China AD Preclinical Alliance, National Clinical Research Center for Geriatric Diseases (Xuanwu Hospital)
-- President, Beijing Society for Cognitive Neuroscience
-- Editorial board member of multiple academic journals
-- Reviewer for the National Natural Science Foundation of China
-
-### Research Highlights
-- Early application of multimodal MRI for mild cognitive impairment in China
-- Member of the SCD-I writing group, contributing to international clinical criteria for subjective cognitive decline
-- Over 200 professional publications, including more than 100 SCI-indexed papers in top journals
-- Multiple students awarded AAIC fellowships and invited to present at international conferences
-
-### Selected Publications
-- *Lancet Neurology* (IF: 44.182)
-- *Molecular Neurodegeneration* (IF: 14.195)
-- *Science Bulletin* (IF: 11.78)
-- *Theranostics* (IF: 11.556)
-- *Radiology* (IF: 11.105)
-- *Alzheimer's Research & Therapy* (IF: 6.982)
+### 受教育：
+1988年毕业于哈尔滨医科大学医疗系获医学学士学位；
+1989在北京外国语大学培训英语一个学期；
+1999年在北京语言文化大学培训法语一年；
+2000年国家教委留学基金委选派赴法留学一年；
+2008年毕业于北京师范大学认知神经科学与学习国家重点实验室获理学博士学位证与毕业证。
+### 工作经历：
+1988-1994 中国医科大学附属第四医院神经内科住院医师
+1994-1995 北京大学首钢医院神经内科住院医师
+1995-2000 北京大学首钢医院神经内科主治医师
+2000-2001 法国里尔大学医学院 Roger Salengro医院神经内科记忆中心访问学者
+2002-2005北京大学首钢医院神经内科副主任医师
+2008-2009首都医科大学宣武医院神经内科副主任医师
+2010-2011首都医科大学宣武医院神经内科副主任医师硕士生导师
+2011-2012首都医科大学宣武医院神经内科副主任医师硕士生导师副教授
+2013-2014首都医科大学宣武医院神经内科主任医师硕士生导师教授
+2014-至今首都医科大学宣武医院神经内科主任医师教授博士生导师
+2021年1月-2025年12月31日海南大学生物医学工程学院柔性引进兼职教授
+2022年7月1日-2025年6月30日深圳湾实验室“同舟学者”
+中华医学会放射学分会磁共振学组委员。国家老年疾病临床医学研究中心（宣武医院）-中国AD临床前期联盟主席。北京认知神经科学学会理事长。国内外多家学术期刊编委。国自然评审专家。
+2000年10月经国家教委选派，赴法国里尔大学地区医疗中心Roger Salengro医院神经病学系与记忆中心深造，师从阿尔茨海默病（Alzheimer’s disease, AD）研究领域国际著名专家 Florence Pasquier教授（该教授是AD国际诊断标准NINCDS-ADRDA2007版、2010版、2014版及VASCOG2014版制定者之一）。同期受大使馆委托担任里尔大区留法学者学生联合会主席。
+2008年起主要从事AD临床诊疗和认知障碍的神经影像学研究工作。在国内较早将多模态磁共振成像方法应用于AD临床前期主观认知下降（SCD）疾病早期评价，证实在SCD阶段即可出现脑结构和功能改变。目前作为亚洲唯一受邀代表加入主观认知下降概念启动（subjective cognitive decline initiative, SCD-I）写作组，参与制定SCD临床特征撰写。迄今共发表专业论文200余篇，其中SCI收录论文100余篇。主要研究成果发表在国际权威期刊《Lancet Neurology》(IF: 46.5)、《Radiology》（IF:12.1）、《Science Bulletin》（IF: 18.8）、《Molecular Neurodegeneration》（IF:14.9）、《Alzheimer’s & Dementia》（IF:13.0）、《Theranostics》（IF: 12.4）、《Alzheimer's Research & Therapy》（IF: 7.9）等，指导研究生多次在国际会议作大会发言，多人次获得AAIC的fellowship奖励。
+### 获得奖项和科研资助：
+在研主持为期5年的国自然重点国际合作项目（82020108013），为期3年的中德会议资助（M-0759）。在研参与了一项国自然仪器项目（82327809）和一项科技部重大项目（2022ZD0211800）。结题了一项国家重点研发项目“阿尔茨海默病早期诊断新技术研发”（2016YFC1306300）子课题；主持并完成国自然重点项目（61633018）1项和面上项目2项（30970823，31371007）；主持并完成北京市科委首都市民健康培育项目一项（Z131100006813022）；主持并完成顺义区卫计委资助“AD临床前期SCD筛查”流调项目。
+2019年发明专利一项：“一种脑电信号分类方法、装置、设备和介质”；专利权人：韩璎；闫天翼；刘思宇；张德雨；赵明艳；陈端端；陈奕如；秦文硕；吴景龙；2019-1-14, 中国, 201910033522.4. （专利） 
+2019年获得上海市科技进步一等奖（排名第二）：分子生物学、功能影像学对阿尔茨海默病早期精准诊断及疗效监测的关键技术。 
+2021年发明专利一项：“基于多模态磁共振图像的脑网络建模与个体预测方法”；专利权人：舒妮; 付安国; 张占军; 韩璎; 马国林 ; 2021-11-09, 中国, 202110748407.2.（专利）
+2022年获得华夏医学科学技术奖一等奖（排名第二）（2022-J038）：多模态脑成像关键技术创新体系建立及在神经退行性疾病中的应用。
+2024年度北京医学科技一等奖（排名第三）（202401002）：多模态脑成像关键技术创新体系建立及在阿尔茨海默病中的应用。
+2021年1月海南大学柔性人才引进（5年）。
+2022年7月获克拉玛依市“产业兴克”人才荣誉称号（3年）；2023年1月荣获新疆维吾尔自治区“天池英才”项目资助。
+2022年7月深圳湾实验室“同舟学者”人才荣誉称号（3年）。
+### 近五年发表英文文章：
+2014年9篇、2015年10篇、2016年10篇、2017年10篇、2018年9篇、2019年17篇、2020年19篇、2021年13篇、2022年19篇、2023年12篇、2024年12篇。

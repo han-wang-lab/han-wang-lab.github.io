@@ -102,6 +102,19 @@ layout: default
 		<div class="bigspacer"></div>
 		{% endif %}
 
+		<!-- wechat -->
+		 {% if member.wechat %}
+<div class="smallhead">
+  WeChat
+</div>
+<div class="pad-left note">
+  <div class="smallspacer"></div>
+  <i class="fab fa-weixin fa-fw"></i>   <!-- Font Awesome 5/6 微信图标 -->
+  <span>{{ member.wechat }}</span>      <!-- 只显示微信号，不外链 -->
+</div>
+<div class="bigspacer"></div>
+{% endif %}
+
 		{% if member.email %}
 		{% assign emailarray = member.email | split: '@' %}
 		<div class="smallhead">
