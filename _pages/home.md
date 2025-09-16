@@ -94,4 +94,4 @@ The Ying Han & Hao Wang Lab aims to advance research in **computer vision**, **r
 
 如果您有兴趣加入，请参阅*[Join Us](recruitment)* 页面。
 
-<p style="color:red;">我们从 2025 年夏季开始为博士生后提供空缺职位！</p>
+<p style="color:red;">我们从 2025 年夏季开始为博士后提供空缺职位！</p>
