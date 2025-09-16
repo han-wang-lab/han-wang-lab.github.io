@@ -46,7 +46,8 @@ web: https://bme.hainanu.edu.cn/info/1115/1645.htm
 2022年7月深圳湾实验室“同舟学者”人才荣誉称号（3年）。
 ### 近五年发表英文文章：
 2014年9篇、2015年10篇、2016年10篇、2017年10篇、2018年9篇、2019年17篇、2020年19篇、2021年13篇、2022年19篇、2023年12篇、2024年12篇。
-### 近期发表英文文章（*通讯作者#共同第一作者）: 
+### 近期发表英文文章: 
+（*通讯作者#共同第一作者）
 - Frank Jessen, Rebecca E Amariglio, Rachel F Buckley, Wiesje M van der Flier, **<ins>Ying Han</ins>**, José Luis Molinuevo, Laura Rabin, Dorene M Rentz, Octavio Rodriguez-Gomez, Andrew J Saykin, Sietske A M Sikkes, Colette M Smart, Steffen Wolfsgruber, Michael Wagner. The characterisation of subjective cognitive decline. Lancet neurology. 2020, Mar;19(3). DOI: 10.1016/ S1474-4422(19)30368-0. (IF:45.5) 被引：818次（web of science）、1078次（Google scholar）
 - Shu N, Wang XN, Bi QH, Zhao TD, **<ins>Han Y*</ins>**. Disrupted topological efficiency of white matter structural connectome in individuals with subjective cognitive decline. Radiology, 2018, 286 (1):229-238. DOI: 10.1148/radiol.2017162696(IF:15.2) 被引：104次（web of science）、115次（Google scholar）
 - Sun Y#, Dai Z#, Li Y, Sheng C, Li H, Wang X, Chen X, He Y, **<ins>Han Y*</ins>**. Mapping Functional and Structural Brain Changes in Subjective Cognitive Decline: A Combined Resting-State Functional MRI and Structural MRI Study. Radiology. 2016, Oct; 281(1):185-92. DOI: 10.1148/radiol.2016151771 (IF:15.2) 被引：88次（web of science）、109次（Google scholar）
