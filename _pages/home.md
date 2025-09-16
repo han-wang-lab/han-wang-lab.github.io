@@ -20,7 +20,7 @@ permalink: /
 
 <div class="carousel-dual">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg" class="active" alt="team">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/lab1.jpg" alt="lab">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team2.jpg" alt="lab">
 
   <button class="prev" onclick="changeD(-1)">&#10094;</button>
   <button class="next" onclick="changeD(1)">&#10095;</button>
