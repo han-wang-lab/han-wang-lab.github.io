@@ -113,6 +113,37 @@ _pages\home.md的News部分修改
 使用新加坡全局链接完成了提交，2025年9月12日15:45:10
 
 ## 轮播图
-_includes\head.html里插入
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+_pages\home.md里插入
+<style>
+.carousel-dual{position:relative;max-width:100%;margin:auto;overflow:hidden}
+.carousel-dual img{width:100%;display:none;border:10px solid #fff}
+.carousel-dual img.active{display:block}
+.carousel-dual button{position:absolute;top:50%;transform:translateY(-50%);background:rgba(0,0,0,.4);color:#fff;border:none;padding:4px 8px;font-size:18px;cursor:pointer}
+.carousel-dual .prev{left:0}
+.carousel-dual .next{right:0}
+</style>
+
+<div class="carousel-dual">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg" class="active" alt="team">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team2.jpg" alt="lab">
+
+  <button class="prev" onclick="changeD(-1)">&#10094;</button>
+  <button class="next" onclick="changeD(1)">&#10095;</button>
+</div>
+
+<script>
+(function(){
+  let idx=0, imgs=document.querySelectorAll('.carousel-dual img');
+  window.changeD=function(d){
+    imgs[idx].classList.remove('active');
+    idx=(idx+d+imgs.length)%imgs.length;
+    imgs[idx].classList.add('active');
+  };
+  setInterval(function(){changeD(1)},4000);
+})();
+</script>
+
+## 本地预览
+安装jekyll，3.1.7，版本，注意太高版本无法运行
+bundle exec jekyll serve --livereload
+http://127.0.0.1:4000/
