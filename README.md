@@ -147,3 +147,5 @@ _pages\home.md里插入
 安装jekyll，3.1.7，版本，注意太高版本无法运行
 bundle exec jekyll serve --livereload
 http://127.0.0.1:4000/
+
+按ctrl+C 再输入Y退出，或者ctrl+Z，ctrl+Z
