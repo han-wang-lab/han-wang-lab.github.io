@@ -8,11 +8,11 @@ permalink: /publications/
 
 # Publications
 
-{% assign years = "2025,2024,2023,2022,2021,2020,2019,2018,2017,2016" | split: ',' %}
+{% assign years = "2025,2024,2023,2022,2021,2020" | split: ',' %}
 {% assign containsConference = false %}
 {% assign containsJournal = false %}
 {% for year in years %}
-{% assign containsConference = false %}
+<!-- {% assign containsConference = false %} -->
 {% assign containsJournal = false %}
 ## {{year | string}}
 
@@ -38,7 +38,7 @@ permalink: /publications/
 
 
 {% if containsJournal %}
-### Journal Papers
+<!-- ### Journal Papers -->
 {% endif %}
 
 {% for publi in site.data.publist %}
@@ -59,10 +59,10 @@ permalink: /publications/
 {% endfor %}
 
 {% if containsJournal %}
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 {% endif %}
 
-{% if containsConference %}
+<!-- {% if containsConference %}
 ### Conference Papers
 {% endif %}
 
@@ -81,16 +81,16 @@ permalink: /publications/
 
 {% endif %}
 
-{% endfor %}
+{% endfor %} -->
 
 {% if containsConference %}
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 {% endif %}
 
 {% endfor %}
 
 
-## Patents
+<!-- ## Patents
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -108,9 +108,9 @@ permalink: /publications/
 </div>
 
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 
-<p> &nbsp; </p>
+<!-- <p> &nbsp; </p> -->
 
 <!-- <div>
 ## Full List

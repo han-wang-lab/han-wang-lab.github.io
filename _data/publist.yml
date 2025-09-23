@@ -1,34 +1,45 @@
 # 2025
-- title: "Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications"
-  image: nguyen_icra2025.png
+#图片在C:\labpage\han-wang-lab.github.io\images\pubpic
+- title: "Plasma biomarkers as core mediators in functional subnetwork abnormalities: Evidence from a two-cohort study."
+  image: alz70114-fig-0003-m.jpg
   description: 
-  authors: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen
+  authors: Wei M, Zhang Y, Wang M, Zhong J, Chai W, Hu W, Tao F, Wang L, Zhang Q, Yu X, Shi R, Li C, Song Z, Chen G, Zhang S, Jiang J*, Han Y*
   link:
-    url: https://arxiv.org/abs/2409.17727
-    display: N. Nguyen, M. N. Vu, T. D Ta, B. Huang, T. Vo, N. Le, A. Nguyen,  ICRA, 2025
-  type: 1
-  news2:
-  year: 2025
-
-- title: "A2VIS: Amodal-Aware Approach to Video Instance Segmentation"
-  image: tran_image_vision2025.png
-  description: 
-  authors: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0262885625001313
-    display: M. Tran, T. Pham, W. Bounsavy, T. Nguyen, N. Le,  Image and Vision Computing, 2025
+    url: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70114
+    display: Wei M, Zhang Y, Wang M, Zhong J, Chai W, Hu W, Tao F, Wang L, Zhang Q, Yu X, Shi R, Li C, Song Z, Chen G, Zhang S, Jiang J*, Han Y*, Alzheimers Dement.
   type: 2
   news2:
   year: 2025
 
-- title: "Modeling radiologists’ cognitive processes using a digital gaze twin to enhance radiology training"
-  image: awasthi_scientific_reports2025.png
+- title: "Astrocyte reactivity is associated with tau tangle load and cortical thinning in Alzheimer's disease. Mol Neurodegener."
+  image: 07236041c015561b678e1879ed47846d.png
   description: 
-  authors: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen
+  authors: Guo T*, Li A, Sun P, He Z, Cai Y, Lan G, Liu L, Li J, Yang J, Zhu Y, Zhao R, Chen X, Shi D, Liu Z, Wang Q, Xu L, Zhou L, Ran P, Wang X, Sun K, Lu J*, Han Y*.
   link:
-    url: https://www.nature.com/articles/s41598-025-97935-y
-    display: A. Awasthi, A. M. Vu, N. Le, Z. Deng, S. Maulik, R. Agrawal, C. C Wu, H. V. Nguyen,  Scientific Reports, 2025
+    url: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/s13024-024-00750-8
+    display: Guo T*, Li A, Sun P, He Z, Cai Y, Lan G, Liu L, Li J, Yang J, Zhu Y, Zhao R, Chen X, Shi D, Liu Z, Wang Q, Xu L, Zhou L, Ran P, Wang X, Sun K, Lu J*, Han Y*.Mol Neurodegener.
   type: 2
   news2:
-  year: 2025
+  year: 2024
 
+- title: "Amyloid and SCD jointly predict cognitive decline across Chinese and German cohorts."
+  image: 595f939434f4f28e8252190609ba97fb.png
+  description: 
+  authors: Shao K, Hu X, Kleineidam L, Stark M, Altenstein S, Amthauer H, Boecker H, Buchert R, Buerger K, Butryn M, Cai Y, Cai Y, Cosma NC, Chen G, Chen Z, Daamen M, Drzezga A, Düzel E, Essler M, Ewers M, Fliessbach K, Gaertner FC, Glanz W, Guo T, Hansen N, He B, Janowitz D, Kilimann I, Krause BJ, Lan G, Lange C, Laske C, Li Y, Li R, Liu L, Lu J, Meng F, Munk MH, Peters O, Perneczky R, Priller J, Ramirez A, Rauchmann BS, Reimold M, Rominger A, Rostamzadeh A, Roy-Kluth N, Schneider A, Spottke A, Spruth EJ, Sun P, Teipel S, Wang X, Wei M, Wei Y, Wiltfang J, Yan S, Yang J, Yu X, Zhang M, Zhang L; DELCODE study group, SILCODE study group; Wagner M, Jessen F, Han Y*
+  link:
+    url: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14119
+    display: Shao K, Hu X, Kleineidam L, Stark M, Altenstein S, Amthauer H, Boecker H, Buchert R, Buerger K, Butryn M, Cai Y, Cai Y, Cosma NC, Chen G, Chen Z, Daamen M, Drzezga A, Düzel E, Essler M, Ewers M, Fliessbach K, Gaertner FC, Glanz W, Guo T, Hansen N, He B, Janowitz D, Kilimann I, Krause BJ, Lan G, Lange C, Laske C, Li Y, Li R, Liu L, Lu J, Meng F, Munk MH, Peters O, Perneczky R, Priller J, Ramirez A, Rauchmann BS, Reimold M, Rominger A, Rostamzadeh A, Roy-Kluth N, Schneider A, Spottke A, Spruth EJ, Sun P, Teipel S, Wang X, Wei M, Wei Y, Wiltfang J, Yan S, Yang J, Yu X, Zhang M, Zhang L; DELCODE study group, SILCODE study group; Wagner M, Jessen F, Han Y*
+  type: 2
+  news2:
+  year: 2024
+
+- title: "Innovative Multivariable Model Combining MRI Radiomics and Plasma Indexes Predicts Alzheimer's Disease Conversion: Evidence from a 2-Cohort Longitudinal Study. "
+  image: db378c68517e54ed0d910f5edd1a10fe.png
+  description: 
+  authors: Yu X, Sun X, Wei M, Deng S, Zhang Q, Guo T, Shao K, Zhang M, Jiang J*, Han Y*
+  link:
+    url: https://spj.science.org/doi/10.34133/research.0354
+    display: Yu X, Sun X, Wei M, Deng S, Zhang Q, Guo T, Shao K, Zhang M, Jiang J*, Han Y*
+  type: 2
+  news2:
+  year: 2024
