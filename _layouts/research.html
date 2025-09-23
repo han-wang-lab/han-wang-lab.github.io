@@ -1,6 +1,72 @@
 ---
 layout: default
 ---
+<style>
+  #research h2{ margin-top:2.5rem; font-size:1.6rem; }
+  .paper-card{
+    border:1px solid #e5e5e5;
+    padding:1.2rem;
+    margin-bottom:2rem;
+    border-radius:6px;
+    overflow:hidden;
+  }
+  .thumb{
+    float:left;
+    width:300px;  /* 图片大小*/
+    border-radius:6px;
+    box-shadow:0 2px 8px rgba(0,0,0,.15);
+    margin-right:25px;   /* ✅ 新增：直接拉开图片和文字 */
+  }
+
+  .paper-card h3{ margin-top:0; font-size:1.25rem; }
+  .paper-card p{ margin:.4rem 0; }
+  .clear{ clear:both; }
+
+  /* 手机端：图片占满一行，文字下去 */
+  @media (max-width:576px){
+    .thumb{ float:none; display:block; margin:0 auto 1rem; width:90%; max-width:300px; }
+  }
+
+.paper-card p:last-of-type{
+  font-size:1.5rem;
+  line-height:1.8;
+  color:#444;
+  padding-left:30px;
+  padding-right:30px;   /* ✅ 新增：右侧留空 */
+  border-left:3px solid #0d6efd;
+  margin-top:3rem;
+  text-align:justify;
+  text-align-last:left;
+}
+</style>
+
 <div id="research" class="col-sm-12">
-  {{ content }}
+
+  <!-- 第一部分 -->
+  <h2><strong>（一）基于血浆多维标志物（Aβ/tau/GFAP）构建预测AD神经退行性速率的计算模型研究</strong></h2>
+  {% assign plasma = site.data.research | where_exp: "item", "item.id == 'plasma'" %}
+  {% for p in plasma %}
+    <div class="paper-card">
+      <img src="{{ p.image }}" alt="" class="thumb">
+      <!-- <h3><a href="{{ p.url }}" target="_blank">{{ p.title }}</a></h3> -->
+      <!-- <p><strong>作者：</strong>{{ p.description | split: ',' | first }}</p> -->
+      <!-- <p><strong>期刊：</strong>{{ p.description | split: ',' | last }}</p> -->
+      <p>{{ p.abstract }}</p>
+      <div class="clear"></div>
+    </div>
+  {% endfor %}
+
+  <!-- 第二部分 -->
+  <h2><strong>（二）时域干涉（TI）电场聚焦的个体化精准计算与靶点验证</strong></h2>
+  {% assign ti = site.data.research | where_exp: "item", "item.id == 'ti'" %}
+  {% for t in ti %}
+    <div class="paper-card">
+      <img src="{{ t.image }}" alt="" class="thumb">
+      <!-- <h3><a href="{{ t.url }}" target="_blank">{{ t.title }}</a></h3> -->
+      <!-- <p><strong>作者：</strong>{{ t.description | split: ',' | first }}</p>
+      <p><strong>期刊：</strong>{{ t.description | split: ',' | last }}</p> -->
+      <p>{{ t.abstract }}</p>
+      <div class="clear"></div>
+    </div>
+  {% endfor %}
 </div>

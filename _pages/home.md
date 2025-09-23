@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Ying Han & Hao Wang Lab
+# 认知神经工程与AD精准调控团队
 
 <!-- 统一 16:9 轮播 -->
 <style>
@@ -80,9 +80,17 @@ permalink: /
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/teampic/teamall.jpg){: style="width: 100%; border: 10px"} -->
 <br>
 
+## 团队介绍：
 
-The Ying Han & Hao Wang Lab aims to advance research in **computer vision**, **robotics**, and **medical imaging**. Over the past few years, we have made significant progress in these fields through our cutting-edge research and collaboration with leading experts in the field. Our work has resulted in numerous publications in top-tier conferences and journals, and we continue to push the boundaries of what is possible with our advanced machine learning techniques, particularly in the areas of deep neural networks. We are excited to continue our research and contribute to the field of computer vision, robotics, and medical imaging.
+随着全球人口老龄化进程的加剧，以阿尔茨海默病（AD）为代表的神经退行性疾病已成为严峻的社会与健康挑战。这类疾病的病理机制复杂，早期诊断困难，且缺乏有效的干预手段。本团队致力于融合前沿神经影像学、计算科学与神经调控工程，进行认知障碍的“精准诊疗（Theranostics）”。开发并应用多模态磁共振成像技术（sMRI, fMRI, DTI等），结合人工智能与先进的计算模型，挖掘能够在临床症状出现前预警疾病风险的、高维度的生物标记物。同时，我们积极探索以时域干涉（Temporal Interference，TI）为代表的新型无创深部脑刺激技术，旨在通过精确调控病理状态下的深部大脑核团与神经网络，实现对认知功能的修复与重塑。我们的最终目标是建立一个从基础理论（高阶脑网络机制）到关键技术（多模态生物标记物、TI无创神经调控），再到临床应用（AD的早期诊断与干预）的完整研究闭环，为攻克神经退行性疾病提供创新的理论基础和工程解决方案。
+<!-- The Ying Han & Hao Wang Lab aims to advance research in **computer vision**, **robotics**, and **medical imaging**. Over the past few years, we have made significant progress in these fields through our cutting-edge research and collaboration with leading experts in the field. Our work has resulted in numerous publications in top-tier conferences and journals, and we continue to push the boundaries of what is possible with our advanced machine learning techniques, particularly in the areas of deep neural networks. We are excited to continue our research and contribute to the field of computer vision, robotics, and medical imaging. -->
 <br>
+
+## 研究方向：
+- **阿尔茨海默病的多模态磁共振智能诊断与高阶生物标记物挖掘**
+- **时域干涉（TI）无创深部神经调控的物理机制与临床转化研究**
+- **大脑结构-功能网络的高阶耦合机制及其在认知障碍中的应用**
+- **面向精准干预的神经影像-神经调控闭环计算模型构建**
 
 ## News
 
