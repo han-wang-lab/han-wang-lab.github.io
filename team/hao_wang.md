@@ -22,7 +22,7 @@ web: "https://bme.hainanu.edu.cn/info/1107/5621.htm"
 ### Publications
 1. Hao Wang; Jennifer S. Labus; Fiona Griffin; Arpana Gupta; Ravi R. Bhatt; Jenny S. Sauk; Joanna Turkiewicz; Charles N. Bernstein; Jennifer Kornelsen; Emeran A. Mayer; Functional brain rewiring and altered cortical stability in ulcerative colitis. *Molecular Psychiatry*, 2022. (中科院一区)
 2. Yaou Liu#; Hao Wang#; Yunyun Duan; Jing Huang; Zhuoqiong Ren; Jing Ye; Huiqing Dong; Fudong Shi; Kuncheng Li; Jinhui Wang; Functional Brain Network Alterations in Clinically Isolated Syndrome and Multiple Sclerosis: A Graph-based Connectome Study. *Radiology*, 2017. (中科院一区)
-3. Huijun Wu; Shijia Fan; Chuyao Yan; Hao Wang*; Cortical microstructural brain network mediates the association between personality trait of agreeableness and life satisfaction. *Cerebral Cortex*, 2024. (中科院二区)
+3. Huijun Wu; Shijia Fan; Chuyao Yan; Hao Wang\*; Cortical microstructural brain network mediates the association between personality trait of agreeableness and life satisfaction. *Cerebral Cortex*, 2024. (中科院二区)
 4. Ming Li; Linyuan Lü; Youjin Deng; Mao-Bin Hu; Hao Wang; Matúš Medo; H Eugene Stanley; History-dependent percolation on multiplex networks. *National Science Review*, 2020. (中科院一区)
 5. Xiaobei Zhang; Hao Wang; Lisa A. Kilpatrick; Tien S. Dong; Gilbert C. Gee; Jennifer S. Labus; Vadim Osadchiy et al. Discrimination exposure impacts unhealthy processing of food cues: crosstalk between the brain and gut. *Nature Mental Health*, 2023. (Nature子刊)
 6. Yiming Huang; Hao Wang; Xiao-Long Ren; Linyuan Lü; Identifying key players in complex networks via network entanglement. *Communications Physics*, 2024. (中科院一区)
