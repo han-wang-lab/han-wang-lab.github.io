@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Biao Yang
+title: Wanhao Liu
 position: MSc Student
 handle: wanhao_liu
 email: yangbiao@hainanu.edu.cn
