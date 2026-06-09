@@ -2,13 +2,13 @@
 layout: member
 title: Biao Yang
 position: MSc Student
-handle: wanhao_liu
+handle: yukai_liu
 email: yangbiao@hainanu.edu.cn
 twitter:
 github: 
 scholar: 
 linkedin: 
-photo: wanhao_liu.jpg
+photo: yukai_liu.jpg
 web: 
 ---
 
